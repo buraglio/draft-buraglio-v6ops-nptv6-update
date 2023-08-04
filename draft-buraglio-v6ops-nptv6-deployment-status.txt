@@ -78,22 +78,30 @@ Table of Contents
      3.3.  Large Company 2
    4.  Implementations of NPTv6
      4.1.  Open Source Platforms
+       4.1.1.  Linux
+       4.1.2.  BSD pf
      4.2.  Commercial Platforms
+       4.2.1.  Cisco
+       4.2.2.  Palo Alto Networks
+       4.2.3.  Juniper Networks JunOS
+       4.2.4.  pfSense
      4.3.  Application Support
-   5.  Security Considerations
-   6.  IANA Considerations
-   7.  References
-     7.1.  Normative References
-     7.2.  Informative References
+   5.  Additional Considerations
+   6.  Security Considerations
+   7.  IANA Considerations
+   8.  References
+     8.1.  Normative References
+     8.2.  Informative References
    Acknowledgments
    Author's Address
 
 1.  Introduction
 
-   This draft provides an overview of Network Prefix Translation version
-   6 (NPTv6) deployment status.  It lists various NPTv6 features that
-   have been deployed in the production networks.  It also provides an
-   overview of NPTv6 implementation and interoperability testing status.
+   This draft provides an overview of [RFC6296] Network Prefix
+   Translation version 6 (NPTv6) deployment status.  It lists various
+   NPTv6 features that have been deployed in the production networks.
+   It also provides an overview of NPTv6 implementation and
+   interoperability testing status.
 
 2.  Conventions and Definitions
 
@@ -117,21 +125,39 @@ Table of Contents
 
 4.1.  Open Source Platforms
 
+4.1.1.  Linux
+
+4.1.2.  BSD pf
+
 4.2.  Commercial Platforms
+
+4.2.1.  Cisco
+
+4.2.2.  Palo Alto Networks
+
+4.2.3.  Juniper Networks JunOS
+
+4.2.4.  pfSense
+
+   pfSense is a commercially supported Open Source Based system.
 
 4.3.  Application Support
 
-5.  Security Considerations
+5.  Additional Considerations
+
+   As mentioned in section 4 of [RFC7620]
+
+6.  Security Considerations
 
    TODO Security
 
-6.  IANA Considerations
+7.  IANA Considerations
 
    This document has no IANA actions.
 
-7.  References
+8.  References
 
-7.1.  Normative References
+8.1.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -147,7 +173,7 @@ Table of Contents
               DOI 10.17487/RFC8200, July 2017,
               <https://www.rfc-editor.org/rfc/rfc8200>.
 
-7.2.  Informative References
+8.2.  Informative References
 
    [RFC6296]  Wasserman, M. and F. Baker, "IPv6-to-IPv6 Network Prefix
               Translation", RFC 6296, DOI 10.17487/RFC6296, June 2011,
