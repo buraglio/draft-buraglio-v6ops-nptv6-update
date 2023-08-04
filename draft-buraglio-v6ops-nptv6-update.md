@@ -9,19 +9,19 @@ number:
 date:
 consensus: true
 v: 3
-area: AREA
-workgroup: WG Working Group
+area: "Operations and Management"
+workgroup: "IPv6 Operations"
 keyword:
  - next generation
  - unicorn
  - sparkling distributed ledger
 venue:
-  group: WG
-  type: Working Group
-  mail: WG@example.com
-  arch: https://example.com/WG
-  github: USER/REPO
-  latest: https://example.com/LATEST
+  group: "IPv6 Operations"
+  type: "Working Group"
+  mail: "v6ops@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/v6ops/"
+  github: "buraglio/draft-buraglio-v6ops-nptv6-update"
+  latest: "https://buraglio.github.io/draft-buraglio-v6ops-nptv6-update/draft-buraglio-v6ops-nptv6-update.html"
 
 author:
  -
