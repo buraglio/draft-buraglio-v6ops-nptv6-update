@@ -1,9 +1,17 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
-category: info
+title: NPTv6 Implementation and Deployment Status
+abbrev: NPTv6 Implementation and Deployment Status
+docname: draft-buraglio-v6ops-nptv6-deployment-status-00
+v: 3
+submissiontype: IETF
+cat: std
+ipr: trust200902
+area: Int
+wg: V6OPS
+kw: Internet-Draft
+# updates: 6296
 
-docname: draft-buraglio-v6ops-nptv6-update-latest
+docname: draft-buraglio-v6ops-nptv6-deployment-status-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -11,10 +19,7 @@ consensus: true
 v: 3
 area: "Operations and Management"
 workgroup: "IPv6 Operations"
-keyword:
- - next generation
- - unicorn
- - sparkling distributed ledger
+
 venue:
   group: "IPv6 Operations"
   type: "Working Group"
@@ -24,15 +29,19 @@ venue:
   latest: "https://buraglio.github.io/draft-buraglio-v6ops-nptv6-update/draft-buraglio-v6ops-nptv6-update.html"
 
 author:
- -
-    fullname: Your Name Here
-    organization: Your Organization Here
-    email: "buraglio@forwardingplane.net"
+       -
+        ins: N. Buraglio
+        name: Nick Buraglio
+        org: Energy Sciences Network
+        email: buraglio@forwardingplane.net
+
 
 normative:
-
+  RFC2119:
+  RFC8200:   
 informative:
-
+  RFC6296:
+  RFC7620:
 
 --- abstract
 
