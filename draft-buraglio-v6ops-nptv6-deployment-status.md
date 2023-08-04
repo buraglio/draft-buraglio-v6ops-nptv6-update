@@ -45,20 +45,43 @@ informative:
 
 --- abstract
 
-TODO Abstract
+   This draft provides an overview of IPv6-to-IPv6 Network Prefix Translation (NPTv6)
+   deployment status.  It lists various NPTv6 features that have been
+   deployed in production networks.  It also provides an overview of
+   NPTv6 implementation and interoperability testing status.
+
 
 
 --- middle
 
 # Introduction
 
-TODO Introduction
+   This draft provides an overview of Network Prefix Translation version 6 (NPTv6) 
+   deployment status.  It lists various NPTv6 features that have been
+   deployed in the production networks.  It also provides an overview of
+   NPTv6 implementation and interoperability testing status.
 
 
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
 
+# Deployment Status
+
+## Energy Sciences Network
+
+## Large Company 1
+
+## Large Company 2
+
+# Implementations of NPTv6
+    TODO
+
+## Open Source Platforms
+
+## Commercial Platforms
+
+## Application Support
 
 # Security Considerations
 
