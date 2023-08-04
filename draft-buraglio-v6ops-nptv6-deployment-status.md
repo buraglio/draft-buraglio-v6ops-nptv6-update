@@ -11,7 +11,7 @@ wg: V6OPS
 kw: Internet-Draft
 # updates: 6296
 
-docname: draft-buraglio-v6ops-nptv6-deployment-status-latest
+docname: draft-buraglio-v6ops-nptv6-deployment-status-00
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
