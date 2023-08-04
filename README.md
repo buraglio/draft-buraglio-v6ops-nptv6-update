@@ -2,16 +2,16 @@
 
 This is the working area for the individual Internet-Draft, "NPTv6 Implementation and Deployment Status".
 
-* [Editor's Copy](https://buraglio.github.io/draft-buraglio-v6ops-nptv6-update/#go.draft-buraglio-v6ops-nptv6-update.html)
-* [Datatracker Page](https://datatracker.ietf.org/doc/draft-buraglio-v6ops-nptv6-update)
-* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-buraglio-v6ops-nptv6-update)
-* [Compare Editor's Copy to Individual Draft](https://buraglio.github.io/draft-buraglio-v6ops-nptv6-update/#go.draft-buraglio-v6ops-nptv6-update.diff)
+* [Editor's Copy](https://buraglio.github.io/draft-buraglio-v6ops-nptv6-deployment-status/#go.draft-buraglio-v6ops-nptv6-dep[loyment-status].html)
+* [Datatracker Page](https://datatracker.ietf.org/doc/draft-buraglio-v6ops-nptv6-deployment-status)
+* [Individual Draft](https://datatracker.ietf.org/doc/html/draft-buraglio-v6ops-nptv6-deployment-status)
+* [Compare Editor's Copy to Individual Draft](https://buraglio.github.io/draft-buraglio-v6ops-nptv6-deployment-status/#go.draft-buraglio-v6ops-nptv6-deployment-status.diff)
 
 
 ## Contributing
 
 See the
-[guidelines for contributions](https://github.com/buraglio/draft-buraglio-v6ops-nptv6-update/blob/main/CONTRIBUTING.md).
+[guidelines for contributions](https://github.com/buraglio/draft-buraglio-v6ops-nptv6-deployment-status/blob/main/CONTRIBUTING.md).
 
 Contributions can be made by creating pull requests.
 The GitHub interface supports creating pull requests using the Edit (✏) button.
