@@ -56,7 +56,7 @@ informative:
 
 # Introduction
 
-   This draft provides an overview of Network Prefix Translation version 6 (NPTv6) 
+   This draft provides an overview of Network Prefix Translation version 6 (NPTv6)
    deployment status.  It lists various NPTv6 features that have been
    deployed in the production networks.  It also provides an overview of
    NPTv6 implementation and interoperability testing status.
