@@ -29,11 +29,11 @@ venue:
   latest: "https://buraglio.github.io/draft-buraglio-v6ops-nptv6-update/draft-buraglio-v6ops-nptv6-update.html"
 
 author:
-       -
-        ins: N. Buraglio
-        name: Nick Buraglio
-        org: Energy Sciences Network
-        email: buraglio@forwardingplane.net
+  -
+   ins: N. Buraglio
+   name: Nick Buraglio
+   org: Energy Sciences Network
+   email: buraglio@forwardingplane.net
 
 
 normative:
