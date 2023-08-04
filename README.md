@@ -1,4 +1,4 @@
-# "NPTv6 Implementation and Deployment Status
+# NPTv6 Implementation and Deployment Status
 
 This is the working area for the individual Internet-Draft, "NPTv6 Implementation and Deployment Status".
 
