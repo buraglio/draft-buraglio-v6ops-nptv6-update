@@ -38,7 +38,7 @@ author:
 
 normative:
   RFC2119:
-  RFC8200:   
+  RFC8200:
 informative:
   RFC6296:
   RFC7620:
