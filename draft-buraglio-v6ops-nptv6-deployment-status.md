@@ -49,13 +49,11 @@ informative:
    deployed in production networks.  It also provides an overview of
    NPTv6 implementation and interoperability testing status.
 
-
-
 --- middle
 
 # Introduction
 
-   This draft provides an overview of Network Prefix Translation version 6 (NPTv6)
+   This draft provides an overview of {{RFC6296}} Network Prefix Translation version 6 (NPTv6)
    deployment status.  It lists various NPTv6 features that have been
    deployed in the production networks.  It also provides an overview of
    NPTv6 implementation and interoperability testing status.
@@ -73,23 +71,40 @@ informative:
 ## Large Company 2
 
 # Implementations of NPTv6
-    TODO
+
+TODO
 
 ## Open Source Platforms
 
+### Linux
+
+### BSD pf
+
 ## Commercial Platforms
 
+### Cisco
+
+### Palo Alto Networks
+
+### Juniper Networks JunOS
+
+### pfSense
+
+pfSense is a commercially supported Open Source Based system.
+
 ## Application Support
+
+# Additional Considerations
+
+As mentioned in section 4 of {{RFC7620}}
 
 # Security Considerations
 
 TODO Security
 
-
 # IANA Considerations
 
 This document has no IANA actions.
-
 
 --- back
 
