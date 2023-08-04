@@ -13,7 +13,11 @@ Expires: 5 February 2024
 
 Abstract
 
-   TODO Abstract
+   This draft provides an overview of IPv6-to-IPv6 Network Prefix
+   Translation (NPTv6) deployment status.  It lists various NPTv6
+   features that have been deployed in production networks.  It also
+   provides an overview of NPTv6 implementation and interoperability
+   testing status.
 
 About This Document
 
@@ -68,17 +72,28 @@ Table of Contents
 
    1.  Introduction
    2.  Conventions and Definitions
-   3.  Security Considerations
-   4.  IANA Considerations
-   5.  References
-     5.1.  Normative References
-     5.2.  Informative References
+   3.  Deployment Status
+     3.1.  Energy Sciences Network
+     3.2.  Large Company 1
+     3.3.  Large Company 2
+   4.  Implementations of NPTv6
+     4.1.  Open Source Platforms
+     4.2.  Commercial Platforms
+     4.3.  Application Support
+   5.  Security Considerations
+   6.  IANA Considerations
+   7.  References
+     7.1.  Normative References
+     7.2.  Informative References
    Acknowledgments
    Author's Address
 
 1.  Introduction
 
-   TODO Introduction
+   This draft provides an overview of Network Prefix Translation version
+   6 (NPTv6) deployment status.  It lists various NPTv6 features that
+   have been deployed in the production networks.  It also provides an
+   overview of NPTv6 implementation and interoperability testing status.
 
 2.  Conventions and Definitions
 
@@ -88,17 +103,35 @@ Table of Contents
    BCP 14 [RFC2119] [RFC8174] when, and only when, they appear in all
    capitals, as shown here.
 
-3.  Security Considerations
+3.  Deployment Status
+
+3.1.  Energy Sciences Network
+
+3.2.  Large Company 1
+
+3.3.  Large Company 2
+
+4.  Implementations of NPTv6
+
+   TODO
+
+4.1.  Open Source Platforms
+
+4.2.  Commercial Platforms
+
+4.3.  Application Support
+
+5.  Security Considerations
 
    TODO Security
 
-4.  IANA Considerations
+6.  IANA Considerations
 
    This document has no IANA actions.
 
-5.  References
+7.  References
 
-5.1.  Normative References
+7.1.  Normative References
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -114,7 +147,7 @@ Table of Contents
               DOI 10.17487/RFC8200, July 2017,
               <https://www.rfc-editor.org/rfc/rfc8200>.
 
-5.2.  Informative References
+7.2.  Informative References
 
    [RFC6296]  Wasserman, M. and F. Baker, "IPv6-to-IPv6 Network Prefix
               Translation", RFC 6296, DOI 10.17487/RFC6296, June 2011,
