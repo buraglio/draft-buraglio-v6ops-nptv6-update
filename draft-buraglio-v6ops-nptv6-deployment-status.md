@@ -1,7 +1,7 @@
 ---
 title: NPTv6 Implementation and Deployment Status
 abbrev: NPTv6 Implementation and Deployment Status
-docname: draft-buraglio-v6ops-nptv6-deployment-status-00
+docname: draft-buraglio-v6ops-nptv6-deployment-status-latest
 v: 3
 submissiontype: IETF
 cat: std
@@ -11,7 +11,6 @@ wg: V6OPS
 kw: Internet-Draft
 # updates: 6296
 
-docname: draft-buraglio-v6ops-nptv6-deployment-status-00
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
