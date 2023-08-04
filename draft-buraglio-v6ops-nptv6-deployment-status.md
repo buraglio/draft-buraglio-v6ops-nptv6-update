@@ -61,7 +61,6 @@ informative:
    deployed in the production networks.  It also provides an overview of
    NPTv6 implementation and interoperability testing status.
 
-
 # Conventions and Definitions
 
 {::boilerplate bcp14-tagged}
